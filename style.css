@@ -1,0 +1,25 @@
+/* Basic styles, you can add more styles as needed */
+.product {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .cart {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 300px;
+    float: right;
+  }
+  
+  .cart h2 {
+    margin-top: 0;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
